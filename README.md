@@ -1,7 +1,10 @@
-# planning-poker-frontend
+# Vue Boilerplate app
+Contains eslint, Cypress, Jest, and standard Vue CLI options.
 
 ## Project setup
-```
+- Rename the project
+- Open `Package.json` and edit the title of the project
+```shell
 npm install
 ```
 

@@ -1,6 +1,6 @@
 {
     "name": "vue-boilerplate",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "author": "Andrew Gorman",
     "private": true,
     "scripts": {
@@ -14,10 +14,10 @@
         "deasync": "0.1.21"
     },
     "dependencies": {
-        "node-gyp": "^8.3.0",
-        "vue": "^2.6.14",
-        "vue-router": "^3.5.3",
-        "vuex": "^3.6.2"
+        "node-gyp": "^9.3.0",
+        "vue": "^3.2.41",
+        "vue-router": "^4.1.5",
+        "vuex": "^4.1.0"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^4.5.14",
